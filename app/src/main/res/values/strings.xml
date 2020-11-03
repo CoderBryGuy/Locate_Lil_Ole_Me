@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Locate_Lil_Ole_Me</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyB28Hob7a5aE2p2dtK5pTAIxiteoMiFtQM</string>
+</resources>
